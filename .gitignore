@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+ENV/
+
+# Selenium WebDriver downloaded files and logs
+geckodriver.log
+chromedriver.log
+*.png
+
+# IDE specific files
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python distribution artifacts
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
